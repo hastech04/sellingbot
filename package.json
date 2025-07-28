@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@google-cloud/dialogflow": "^7.2.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dialogflow-fulfillment": "^0.5.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.16.5",
+    "nodemailer": "^7.0.5",
+    "nodemon": "^3.1.10",
+    "npm": "^11.5.1"
+  }
+}
